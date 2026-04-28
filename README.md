@@ -1,6 +1,6 @@
 # Audio Simple Transcriber (Whisper) 🎙️
 
-[![Open In Colab](https://google.com)](https://google.com)
+[[Open In Colab](https://google.com)](https://colab.research.google.com/github/Padre-777/audio-simple-transcriber/blob/main/simple_transcriber.ipynb)
 
 Простой инструмент для автоматической расшифровки аудио в текст прямо в браузере. Использует модель **OpenAI Whisper (medium)** для обеспечения высокой точности.
 
